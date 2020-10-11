@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Responsive",
+        "content": "Fusce fermentum placerat magna ac pharetra. Aliquam euismod elit non ipsum lacinia consectetur.",
+        "imgPath": "./images/monitor.svg"
+    },
+    {
+        "title": "Customizable",
+        "content": "Fusce fermentum placerat magna ac pharetra. Aliquam euismod elit non ipsum lacinia consectetur.",
+        "imgPath": "./images/settings.svg"
+    },
+    {
+        "title": "Lovely design",
+        "content": "Fusce fermentum placerat magna ac pharetra. Aliquam euismod elit non ipsum lacinia consectetur.",
+        "imgPath": "./images/like.svg"
+    },
+    {
+        "title": "Mobile Friendly",
+        "content": "Fusce fermentum placerat magna ac pharetra. Aliquam euismod elit non ipsum lacinia consectetur.",
+        "imgPath": "./images/phone-01.svg"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Free",
+        "rate": "0",
+        "content": "Fusce fermentum placerat magna ac pharetra. Aliquam euismod elit non ipsum lacinia consectetur.",
+        "buttonText": "order now"
+    },
+    {
+        "title": "Personal",
+        "rate": "25",
+        "content": "Fusce fermentum placerat magna ac pharetra. Aliquam euismod elit non ipsum lacinia consectetur.",
+        "buttonText": "order now"
+    },
+    {
+        "title": "Business",
+        "rate": "50",
+        "content": "Fusce fermentum placerat magna ac pharetra. Aliquam euismod elit non ipsum lacinia consectetur.",
+        "buttonText": "order now",
+        "isActive": true
+    },
+    {
+        "title": "Ultimate",
+        "rate": "99",
+        "content": "Fusce fermentum placerat magna ac pharetra. Aliquam euismod elit non ipsum lacinia consectetur.",
+        "buttonText": "order now"
+    }    
+]
